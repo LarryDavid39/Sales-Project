@@ -1,5 +1,5 @@
 # Sales-Project
-Analyzed a Nigerian sales dataset using Microsoft Excel and created an interactive dashboard to monitor trends and give recommendations
+Analyzed a Nigerian sales dataset using Microsoft Excel and created an interactive dashboard to monitor trends and give recommendations (Checkboxes are used to switch categories, so keep an eye on them)
 
 ### Project Overview
 
